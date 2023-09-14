@@ -19,5 +19,5 @@
 ### Commits 3 & 4 from develop branch
 <img width="568" alt="Screenshot 2023-09-14 at 02 51 55" src="https://github.com/Aurnghtas/ECE444-F2023-Assignment1/assets/91770165/26d5eb1e-5b7f-4205-9578-121975d409cc">
 
-### Commits 3, 4, 1, 2
+### Commits 3, 4, 1, 2 after git rebase & rearrange the order
 <img width="702" alt="Screenshot 2023-09-14 at 03 07 58" src="https://github.com/Aurnghtas/ECE444-F2023-Assignment1/assets/91770165/8f877ed2-ea1f-49b7-8a75-2923740ada9f">
